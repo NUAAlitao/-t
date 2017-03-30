@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitySingleInstance.iml" filepath="$PROJECT_DIR$/ActivitySingleInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidActivity.iml" filepath="$PROJECT_DIR$/androidActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
